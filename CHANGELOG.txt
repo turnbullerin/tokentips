@@ -1,0 +1,34 @@
+11.2.0 b005
+- Fixed the display of possible options for soulbound tokens that use specs instead of classes
+- Removed accidental print debugging code
+- Fixed Evoker display for Primalist gear to condense specs 
+- Fixed a few Timeless Isle items with bad item IDs
+- Note that Timeless Isle items aren't dropping per-spec but just randomly for any armor type.
+
+11.2.0 b004
+- Added Dreambound and Forbidden Reach gear 
+- Added support for TWW S1-S3 tokens 
+- Added settings support 
+- TWW catalyst will now also show upgrade options for appearances
+
+11.2.0 b003 
+- Bug fixes for b002
+- Reorganization of data files by expansion
+
+11.2.0 b002
+- Support for TWW S1, S2, and S3 catalyst gear appearances
+- Soulbound gear will now limit appearances to those for your current class.
+
+11.2.0 b001
+- Initial work for translation support (languages still to come)
+- Fixed bug for Idol of Night
+- Fixed bug for Ouro's Intact Hide
+- Added Baleful gear from Tanaan Jungle
+- Added Unsullied gear from Argus
+
+11.1.7 b002
+- Finished pre-WoD items and added Shadowlands Modules and Firelands Crystallized Firestones
+- Bug fixes for several pieces
+
+11.1.7 b001
+- Initial build

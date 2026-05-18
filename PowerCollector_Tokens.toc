@@ -1,0 +1,45 @@
+## Interface: 120005
+## Title: Power Collector - Tokens
+## Notes: Provides tooltips for item that can be exchanged for transmog
+## Version: 12.0.5
+## SavedVariables: PowerCollector_Tokens_Settings
+## Category: Collections
+ 
+Utility.lua
+ 
+Locale.lua 
+locale.en.lua 
+
+Settings.lua
+
+Constants.lua 
+
+TokenDB.lua
+data/AhnQiraj.lua
+data/KarazhanLairs.lua
+data/SerpentshrineTempest.lua
+data/SunwellBlackTemple.lua
+data/Naxxramas.lua
+data/Ulduar.lua
+data/ICC.lua
+data/BastionDepthsPinnacle.lua 
+data/Firelands.lua 
+data/DragonSoul.lua
+data/HeartTerraceVaults.lua
+data/ThroneOfThunder.lua 
+data/SiegeOfOrgrimmar.lua
+data/TimelessIsle.lua
+data/TanaanJungle.lua 
+data/Argus.lua 
+data/Korthian.lua
+data/Sepulcher.lua
+data/ForbiddenReach.lua
+data/Dreambound.lua
+data/NerubarPalace.lua
+data/Undermine.lua 
+data/ManaforgeOmega.lua
+data/MidnightSeason1.lua
+data/VoidCaches.lua
+
+TokenTips.lua
+
